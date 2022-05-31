@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://en.cppreference.com/w/">
-        <img src="./img/cplusplus-original.svg" width="48" height="48" alt="C++">
+        <img src="./img/cplusplus-original.svg" width="48" height="48" alt="CPP">
       </a>
       <br>C++
     </td>
@@ -66,7 +66,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/en/docs/">
-        <img src="./img/nodejs-original.svg" width="48" height="48" alt="Node.js">
+        <img src="./img/nodejs-original.svg" width="48" height="48" alt="Nodejs">
       </a>
       <br>Node.js
     </td>
@@ -80,7 +80,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#">
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="CSharp">
       </a>
       <br>C#
     </td>
